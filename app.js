@@ -20,7 +20,7 @@ jQuery(document).ready(function(){
             _hour+=1;
             if(_hour>12){
 
-               _hour=0;
+               _hour=1;
             }
 
          }
