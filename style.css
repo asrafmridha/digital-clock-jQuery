@@ -1,0 +1,29 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: #405d5f;
+}
+
+.clock{
+
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: #2e4c4e;
+    padding: 30px 50px;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px;
+    
+}
+.clock ul {
+
+    display: flex;
+}
+.clock ul li{
+
+    margin: 10px;
+    list-style: none;
+   
+}
